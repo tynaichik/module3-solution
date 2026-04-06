@@ -1,0 +1,22 @@
+body { background-color: #f0f0f0; }
+.menu-box {
+    background-color: #999;
+    border: 2px solid #333;
+    padding: 40px 20px 20px 20px;
+    position: relative;
+    margin-bottom: 20px;
+    min-height: 800px; /* Чтобы точно был скролл для проверки */
+}
+.box-title {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 120px;
+    margin: 0;
+    padding: 10px;
+    background-color: #D5B8FF;
+    border-left: 2px solid #333;
+    border-bottom: 2px solid #333;
+    font-weight: bold;
+}
+.navbar-nav { background-color: #fff; }
